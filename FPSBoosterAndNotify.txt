@@ -11,8 +11,8 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "Screen Loading",
-        Text = "Chờ Đợi Là Hạnh Phúc",
+        Title = "Youtube:HuyButBad",
+        Text = "Like,Share, Subscribe",
         Duration = 3
     })
 
