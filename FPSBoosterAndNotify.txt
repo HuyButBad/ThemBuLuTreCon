@@ -11,8 +11,8 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "Đợi tí đang tải thằng lồn",
-        Text = "Địt con mẹ mày",
+        Title = "Screen Loading",
+        Text = "Chờ Đợi Là Hạnh Phúc",
         Duration = 3
     })
 
